@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\bin\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.exe
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\bin\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.deps.json
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\bin\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.runtimeconfig.json
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\bin\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.dll
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\bin\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.pdb
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.AssemblyInfo.cs
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.dll
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\refint\Variabel, Tipe Data, dan Operasi Sederhana.dll
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.pdb
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\Variabel, Tipe Data, dan Operasi Sederhana.genruntimeconfig.cache
+C:\Users\Test\source\repos\Variabel, Tipe Data, dan Operasi Sederhana\Variabel, Tipe Data, dan Operasi Sederhana\obj\Debug\net10.0\ref\Variabel, Tipe Data, dan Operasi Sederhana.dll

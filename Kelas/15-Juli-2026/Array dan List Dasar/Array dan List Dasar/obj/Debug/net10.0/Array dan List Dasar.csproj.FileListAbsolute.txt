@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\bin\Debug\net10.0\Array dan List Dasar.exe
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\bin\Debug\net10.0\Array dan List Dasar.deps.json
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\bin\Debug\net10.0\Array dan List Dasar.runtimeconfig.json
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\bin\Debug\net10.0\Array dan List Dasar.dll
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\bin\Debug\net10.0\Array dan List Dasar.pdb
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.AssemblyInfo.cs
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.dll
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\refint\Array dan List Dasar.dll
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.pdb
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\Array dan List Dasar.genruntimeconfig.cache
+C:\Users\Test\source\repos\Array dan List Dasar\Array dan List Dasar\obj\Debug\net10.0\ref\Array dan List Dasar.dll
