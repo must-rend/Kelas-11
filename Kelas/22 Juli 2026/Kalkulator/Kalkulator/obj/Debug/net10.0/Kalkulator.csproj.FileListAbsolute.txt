@@ -1,0 +1,14 @@
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfoInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.AssemblyInfo.cs
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.exe
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.deps.json
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.runtimeconfig.json
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.dll
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\bin\Debug\net10.0\Kalkulator.pdb
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.dll
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\refint\Kalkulator.dll
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.pdb
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\Kalkulator.genruntimeconfig.cache
+D:\Project Rendi\Kelas 11\Kelas\22 Juli 2026\Kalkulator\Kalkulator\obj\Debug\net10.0\ref\Kalkulator.dll
