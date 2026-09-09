@@ -1,0 +1,15 @@
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.AssemblyInfoInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.AssemblyInfo.cs
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\bin\Debug\net10.0\Kalender.exe
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\bin\Debug\net10.0\Kalender.deps.json
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\bin\Debug\net10.0\Kalender.runtimeconfig.json
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\bin\Debug\net10.0\Kalender.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\bin\Debug\net10.0\Kalender.pdb
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\refint\Kalender.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.pdb
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.genruntimeconfig.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\ref\Kalender.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Kalender\Kalender\obj\Debug\net10.0\Kalender.csproj.Up2Date

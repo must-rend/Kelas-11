@@ -1,0 +1,15 @@
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\bin\Debug\net10.0\PBO.exe
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\bin\Debug\net10.0\PBO.dll
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.dll
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll
+D:\Project Rendi\Kelas 11\Kelas\PBO\PBO\obj\Debug\net10.0\PBO.csproj.Up2Date
