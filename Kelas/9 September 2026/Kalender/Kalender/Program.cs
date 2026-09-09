@@ -54,8 +54,7 @@ namespace Jadwal
         public void Sesi3()
         {
             Console.WriteLine("============== Sesi 3 =============");
-            Console.WriteLine("PPLG (12.30 - 14.00)");
-            Console.WriteLine();
+            Console.WriteLine("PPLG (12.30 - 14.00)\n \n");
         }
     }
 
@@ -80,8 +79,7 @@ namespace Jadwal
         public void Sesi3()
         {
             Console.WriteLine("============== Sesi 3 =============");
-            Console.WriteLine("PPLG (12.30 - 14.30)");
-            Console.WriteLine();
+            Console.WriteLine("PPLG (12.30 - 14.30)\n \n");
         }
     }
 
@@ -107,8 +105,7 @@ namespace Jadwal
         {
             Console.WriteLine("============== Sesi 3 =============");
             Console.WriteLine("PPLG (12.30 - 13.30)");
-            Console.WriteLine("BK (13.30 - 14.00)");
-            Console.WriteLine();
+            Console.WriteLine("BK (13.30 - 14.00\n \n");
         }
     }
 
@@ -133,8 +130,7 @@ namespace Jadwal
         public static void Sesi3()
         {
             Console.WriteLine("============== Sesi 3 =============");
-            Console.WriteLine("PAI (12.30 - 13.30)");
-            Console.WriteLine();
+            Console.WriteLine("PAI (12.30 - 13.30\n \n");
         }
     }
 
@@ -152,8 +148,7 @@ namespace Jadwal
         public static void Sesi2()
         {
             Console.WriteLine("============== Sesi 2 =============");
-            Console.WriteLine("PPKN (09.45 - 11.15)");
-            Console.WriteLine();
+            Console.WriteLine("PPKN (09.45 - 11.15)\n \n");
         }
     }
 }
