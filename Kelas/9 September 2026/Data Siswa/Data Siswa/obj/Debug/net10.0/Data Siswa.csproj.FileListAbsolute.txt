@@ -1,0 +1,15 @@
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.AssemblyInfoInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.AssemblyInfo.cs
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\bin\Debug\net10.0\Data Siswa.exe
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\bin\Debug\net10.0\Data Siswa.deps.json
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\bin\Debug\net10.0\Data Siswa.runtimeconfig.json
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\bin\Debug\net10.0\Data Siswa.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\bin\Debug\net10.0\Data Siswa.pdb
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\refint\Data Siswa.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.pdb
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.genruntimeconfig.cache
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\ref\Data Siswa.dll
+D:\Project Rendi\Kelas 11\Kelas\9 September 2026\Data Siswa\Data Siswa\obj\Debug\net10.0\Data Siswa.csproj.Up2Date
