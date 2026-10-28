@@ -1,0 +1,5 @@
+D:\Project Rendi\Kelas 11\Video\Calculator Sederhana\Calculator Sederhana\obj\Release\Calculator Sederhana.csproj.AssemblyReference.cache
+D:\Project Rendi\Kelas 11\Video\Calculator Sederhana\Calculator Sederhana\obj\Release\Calculator_Sederhana.Form1.resources
+D:\Project Rendi\Kelas 11\Video\Calculator Sederhana\Calculator Sederhana\obj\Release\Calculator_Sederhana.Properties.Resources.resources
+D:\Project Rendi\Kelas 11\Video\Calculator Sederhana\Calculator Sederhana\obj\Release\Calculator Sederhana.csproj.GenerateResource.cache
+D:\Project Rendi\Kelas 11\Video\Calculator Sederhana\Calculator Sederhana\obj\Release\Calculator Sederhana.csproj.CoreCompileInputs.cache

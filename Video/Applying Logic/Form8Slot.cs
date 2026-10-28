@@ -1,0 +1,156 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ContohSoal1
+{
+    public partial class Form8Slot : Form
+    {
+        BandaraEntities db = new BandaraEntities();
+        private int idStatus;
+
+        public Form8Slot()
+        {
+            InitializeComponent();
+            UIHelper.Normalize(this);
+        }
+
+
+        // Dashboard
+        private void label8_Click(object sender, EventArgs e)
+        {
+            Form3Dashboard dashboard = new Form3Dashboard();
+            this.Close();
+            dashboard.Show();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Form3Dashboard dashboard = new Form3Dashboard();
+            this.Close();
+            dashboard.Show();
+        }
+
+
+        // About
+        private void label2_Click(object sender, EventArgs e)
+        {
+            Form4About about = new Form4About();
+            this.Close();
+            about.Show();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Form4About about = new Form4About();
+            this.Close();
+            about.Show();
+        }
+
+
+        // Struktur
+        private void label3_Click(object sender, EventArgs e)
+        {
+            Form5Struktur struktur = new Form5Struktur();
+            this.Close();
+            struktur.Show();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Form5Struktur struktur = new Form5Struktur();
+            this.Close();
+            struktur.Show();
+        }
+
+
+        // Bidang
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Form6Bidang bidang = new Form6Bidang();
+            this.Close();
+            bidang.Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            Form6Bidang bidang = new Form6Bidang();
+            this.Close();
+            bidang.Show();
+        }
+
+
+        // Sejarah
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Form7Sejarah sejarah = new Form7Sejarah();
+            this.Close();
+            sejarah.Show();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            Form7Sejarah sejarah = new Form7Sejarah();
+            this.Close();
+            sejarah.Show();
+        }
+
+
+        // Logout
+        private void label7_Click(object sender, EventArgs e)
+        {
+            Form1Login login = new Form1Login();
+            this.Close();
+            login.Show();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Form1Login login = new Form1Login();
+            this.Close();
+            login.Show();
+        }
+
+        private void LoadStatus()
+        {
+            statusBox.DataSource = db.StatusPenerbangans.ToList();
+            statusBox.ValueMember = "ID";
+            statusBox.DisplayMember = "Nama";
+
+            statusBox.SelectedIndex = -1;
+        }
+
+        private void LoadData()
+        {
+            dataGridStatus.DataSource = db.PerubahanStatusJadwalPenerbangans.Select(s => new
+            {
+                s.ID,
+                s.JadwalPenerbanganID,
+                kodePenerbangan = s.JadwalPenerbangan.KodePenerbangan,
+                bandaraAwal = s.JadwalPenerbangan.Bandara.Nama,
+                bandaraTujuan = s.JadwalPenerbangan.Bandara1.Nama,
+                maskapai = s.JadwalPenerbangan.Maskapai.Nama,
+                tanggalKeberangkatan = s.JadwalPenerbangan.TanggalWaktuKeberangkatan,
+                durasiPenerbangan = (s.JadwalPenerbangan.DurasiPenerbangan / 60) + " Jam " + (s.JadwalPenerbangan.DurasiPenerbangan % 60) + " Menit ",
+                statusPenerbangan = s.StatusPenerbangan.Nama,
+                s.WaktuPerubahanTerjadi
+            }).ToList();
+        }
+
+        private void dataGridStatus_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+            if (e.RowIndex < 0)
+            {
+                return;
+            }
+
+            idStatus = Convert.ToInt32(dataGridStatus.Rows[e.RowIndex].Cells["ID"].Value);
+        }
+    }
+}

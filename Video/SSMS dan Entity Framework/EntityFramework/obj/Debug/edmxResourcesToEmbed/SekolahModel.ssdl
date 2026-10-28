@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SekolahDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Jurusan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NamaJurusan" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Siswa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nama" Type="varchar" MaxLength="50" />
+    <Property Name="Umur" Type="int" />
+    <Property Name="Alamat" Type="text" />
+    <Property Name="JurusanID" Type="int" />
+  </EntityType>
+  <Association Name="FK_Siswa_Siswa">
+    <End Role="Siswa" Type="Self.Siswa" Multiplicity="1" />
+    <End Role="Siswa1" Type="Self.Siswa" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Siswa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Siswa1">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SekolahDBModelStoreContainer">
+    <EntitySet Name="Jurusan" EntityType="Self.Jurusan" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Siswa" EntityType="Self.Siswa" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Siswa_Siswa" Association="Self.FK_Siswa_Siswa">
+      <End Role="Siswa" EntitySet="Siswa" />
+      <End Role="Siswa1" EntitySet="Siswa" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

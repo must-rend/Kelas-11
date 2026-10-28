@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SekolahDBModelStoreContainer" CdmEntityContainer="SekolahDBEntities">
+    <EntitySetMapping Name="Jurusans">
+      <EntityTypeMapping TypeName="SekolahDBModel.Jurusan">
+        <MappingFragment StoreEntitySet="Jurusan">
+          <ScalarProperty Name="NamaJurusan" ColumnName="NamaJurusan" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Siswas">
+      <EntityTypeMapping TypeName="SekolahDBModel.Siswa">
+        <MappingFragment StoreEntitySet="Siswa">
+          <ScalarProperty Name="Umur" ColumnName="Umur" />
+          <ScalarProperty Name="JurusanID" ColumnName="JurusanID" />
+          <ScalarProperty Name="Alamat" ColumnName="Alamat" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="Id" ColumnName="Id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,177 @@
+﻿namespace ContohSoal1
+{
+    partial class Form1Login
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.label1 = new System.Windows.Forms.Label();
+            this.usernameTxt = new System.Windows.Forms.TextBox();
+            this.loginBtn = new System.Windows.Forms.Button();
+            this.passwordTxt = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
+            this.SuspendLayout();
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlText; // Warna teks hitam default
+            this.label1.Location = new System.Drawing.Point(396, 200); // Koordinat disesuaikan karena gambar hilang
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(83, 20);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Username";
+            // 
+            // usernameTxt
+            // 
+            this.usernameTxt.Location = new System.Drawing.Point(510, 196);
+            this.usernameTxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.usernameTxt.Name = "usernameTxt";
+            this.usernameTxt.Size = new System.Drawing.Size(346, 26);
+            this.usernameTxt.TabIndex = 0;
+            // 
+            // loginBtn
+            // 
+            this.loginBtn.BackColor = System.Drawing.SystemColors.ControlLight; // Warna tombol default abu-abu terang
+            this.loginBtn.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.loginBtn.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.loginBtn.Location = new System.Drawing.Point(758, 276);
+            this.loginBtn.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.loginBtn.Name = "loginBtn";
+            this.loginBtn.Size = new System.Drawing.Size(100, 37);
+            this.loginBtn.TabIndex = 2;
+            this.loginBtn.Text = "Login";
+            this.loginBtn.UseVisualStyleBackColor = true; // Mengembalikan tema bawaan Windows OS
+            this.loginBtn.Click += new System.EventHandler(this.loginBtn_Click);
+            // 
+            // passwordTxt
+            // 
+            this.passwordTxt.Location = new System.Drawing.Point(510, 236);
+            this.passwordTxt.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.passwordTxt.Name = "passwordTxt";
+            this.passwordTxt.PasswordChar = '*';
+            this.passwordTxt.Size = new System.Drawing.Size(346, 26);
+            this.passwordTxt.TabIndex = 1;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label2.Location = new System.Drawing.Point(396, 239);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(78, 20);
+            this.label2.TabIndex = 3;
+            this.label2.Text = "Password";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label3.Location = new System.Drawing.Point(456, 356);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(168, 25);
+            this.label3.TabIndex = 5;
+            this.label3.Text = "Belum Punya Akun?";
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label4.ForeColor = System.Drawing.SystemColors.HotTrack; // Mengubah warna tautan daftar menjadi biru link bawaan
+            this.label4.Location = new System.Drawing.Point(634, 356);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(144, 25);
+            this.label4.TabIndex = 6;
+            this.label4.Text = "Daftar Sekarang!";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
+            // 
+            // Form1Login
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.Control; // Mengembalikan warna latar belakang abu-abu bawaan Windows
+            this.ClientSize = new System.Drawing.Size(1148, 500); // Ukuran form diperkecil karena objek atas kosong
+            this.Controls.Add(this.label4);
+            this.Controls.Add(this.label3);
+            this.Controls.Add(this.passwordTxt);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.loginBtn);
+            this.Controls.Add(this.usernameTxt);
+            this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Name = "Form1Login";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Login Form";
+            // normalize UI: hide picture boxes and force white backgrounds for form, panels and buttons
+            System.Action<System.Windows.Forms.Control> normalize = null;
+            normalize = c =>
+            {
+                if (c is System.Windows.Forms.PictureBox pb)
+                {
+                    pb.Visible = false;
+                    pb.Image = null;
+                }
+                if (c is System.Windows.Forms.Button btn)
+                {
+                    btn.BackColor = System.Drawing.Color.White;
+                    btn.UseVisualStyleBackColor = false;
+                }
+                if (c is System.Windows.Forms.Panel p)
+                {
+                    p.BackColor = System.Drawing.Color.White;
+                }
+                if (c is System.Windows.Forms.DataGridView dgv)
+                {
+                    dgv.BackgroundColor = System.Drawing.Color.White;
+                }
+                foreach (System.Windows.Forms.Control child in c.Controls)
+                    normalize(child);
+            };
+            normalize(this);
+            this.BackColor = System.Drawing.Color.White;
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.TextBox usernameTxt;
+        private System.Windows.Forms.Button loginBtn;
+        private System.Windows.Forms.TextBox passwordTxt;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label4;
+    }
+}

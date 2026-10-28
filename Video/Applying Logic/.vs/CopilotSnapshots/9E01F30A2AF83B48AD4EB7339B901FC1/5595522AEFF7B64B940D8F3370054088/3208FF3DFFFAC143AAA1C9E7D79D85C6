@@ -1,0 +1,116 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace ContohSoal1
+{
+    public partial class Form12TiketSaya : Form
+    {
+        BandaraEntities db = new BandaraEntities();
+
+        public Form12TiketSaya()
+        {
+            InitializeComponent();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Form9CustomerMain customerMain = new Form9CustomerMain();
+            customerMain.Show();
+
+            this.Hide();
+        }
+
+        private void Form12TiketSaya_Load(object sender, EventArgs e)
+        {
+            MuatDaftarTiket();
+        }
+
+        private void MuatDaftarTiket()
+        {
+            // mengambil semua transaksi milik customer yang sedang login dan hanya tampilkan penerbangan yang belum berangkat
+            var daftarTiket = db.TransaksiHeaders
+                // filter berdasarkan akun customer yang sedang login
+                .Where(t => t.AkunID == Session.loggedIn.ID)
+
+                // hanya tampilkan tiket yang tanggal keberangkatannya belum lewat
+                .Where(t => t.JadwalPenerbangan.TanggalWaktuKeberangkatan >= DateTime.Now)
+
+                // ambil data yang diperlukan untuk ditampilkan pada DataGridView
+                .Select(t => new
+                {
+                    KodePenerbangan = t.JadwalPenerbangan.KodePenerbangan,
+                    Maskapai = t.JadwalPenerbangan.Maskapai.Nama,
+                    BandaraKeberangkatan = t.JadwalPenerbangan.Bandara.Nama,
+                    BandaraTujuan = t.JadwalPenerbangan.Bandara1.Nama,
+                    TanggalKeberangkatan = t.JadwalPenerbangan.TanggalWaktuKeberangkatan,
+                    WaktuPenerbangan = t.JadwalPenerbangan.TanggalWaktuKeberangkatan,
+                    t.JadwalPenerbangan.DurasiPenerbangan,
+                    JadwalPenerbanganID = t.JadwalPenerbangan.ID
+                }).ToList();
+
+            // setelah ToList(), data sudah berada di dalma memory sehingga kita bebas melakukan formatiing
+            var dataTampil = daftarTiket
+                .Select(t => new
+                {
+                    t.KodePenerbangan,
+                    t.Maskapai,
+                    t.BandaraKeberangkatan,
+                    t.BandaraTujuan,
+                    t.TanggalKeberangkatan,
+                    WaktuPenerbangan = t.WaktuPenerbangan.ToString("HH:mm") + " - " + t.WaktuPenerbangan.AddMinutes(t.DurasiPenerbangan).ToString("HH:mm"),
+
+                    // mengambil status terbaru dari jadwal penerbangan dengan fungsi terpisah bernama AmbilStatusTerakhir
+                    StatusTerakhir = AmbilStatusTerakhir(t.JadwalPenerbanganID)
+                }).ToList();
+
+            // menampilkan data ke DataGridView
+            dataGridTiket.DataSource = dataTampil;
+        }
+
+        // mengambil status terbaru penerbangan
+        private string AmbilStatusTerakhir(int IdJadwalPenerbangan)
+        {
+            var statusTerbaru = db.PerubahanStatusJadwalPenerbangans
+                // cari hanya status milik jadwal penerbangan ini
+                .Where(p => p.JadwalPenerbanganID == IdJadwalPenerbangan)
+
+                // urutkan dari yang paling baru
+                .OrderByDescending(p => p.WaktuPerubahanTerjadi)
+
+                // ambil data pertama
+                .FirstOrDefault();
+
+            // jika belum pernah ada perubahan status, berarti penerbangan masih sesuai jadwal
+            if (statusTerbaru == null)
+            {
+                return "Sesuai jadwal";
+            }
+
+            string namaStatus = statusTerbaru.StatusPenerbangan.Nama;
+
+            if (namaStatus == "Delay" && statusTerbaru.PerkiraanDurasiDelay != null)
+            {
+                // total delay dalam menit
+                int totalMenit = statusTerbaru.PerkiraanDurasiDelay.Value;
+
+                // hitung jumlah jam
+                int jam = totalMenit / 60;
+
+                // hitung sisa menit
+                int menit = totalMenit % 60;
+
+                return "Delay (kurang lebih)" + jam.ToString("00") + " Jam " + menit.ToString("00") + " Menit)";
+            }
+
+            // jika status selain delay, langsung tampilkan nama statusnya
+            return namaStatus;
+        }
+    }
+}

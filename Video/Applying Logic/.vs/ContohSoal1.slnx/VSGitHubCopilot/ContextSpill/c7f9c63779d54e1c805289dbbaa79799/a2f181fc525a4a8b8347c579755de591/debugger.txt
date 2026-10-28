@@ -1,0 +1,148 @@
+﻿## PROCESSES
+Currently debugging:
+- ContohSoal1.exe (PID: 20980)
+
+## EXCEPTION
+Exception Type: System.Data.Entity.Infrastructure.DbUpdateException
+Exception Message: An error occurred while updating the entries. See the inner exception for details.
+Inner Exceptions:
+1- System.Data.Entity.Core.UpdateException:An error occurred while updating the entries. See the inner exception for details.
+2- System.Data.SqlClient.SqlException:The INSERT statement conflicted with the FOREIGN KEY constraint "FK_Bandara_Negara". The conflict occurred in database "BromoAirlines", table "dbo.Negara", column 'ID'.
+The statement has been terminated.
+This exception was originally thrown at this call stack:
+[1] System.Data.SqlClient.SqlConnection.OnError(System.Data.SqlClient.SqlException, bool, System.Action<System.Action>)
+[2] System.Data.SqlClient.SqlInternalConnection.OnError(System.Data.SqlClient.SqlException, bool, System.Action<System.Action>)
+[3] System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(System.Data.SqlClient.TdsParserStateObject, bool, bool)
+[4] System.Data.SqlClient.TdsParser.TryRun(System.Data.SqlClient.RunBehavior, System.Data.SqlClient.SqlCommand, System.Data.SqlClient.SqlDataReader, System.Data.SqlClient.BulkCopySimpleResultSet, System.Data.SqlClient.TdsParserStateObject, out bool)
+[5] System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+[6] System.Data.SqlClient.SqlDataReader.MetaData.get()
+[7] System.Data.SqlClient.SqlCommand.FinishExecuteReader(System.Data.SqlClient.SqlDataReader, System.Data.SqlClient.RunBehavior, string, bool, bool, bool)
+[8] System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(System.Data.CommandBehavior, System.Data.SqlClient.RunBehavior, bool, bool, int, out System.Threading.Tasks.Task, bool, bool, System.Data.SqlClient.SqlDataReader, bool)
+[9] System.Data.SqlClient.SqlCommand.RunExecuteReader(System.Data.CommandBehavior, System.Data.SqlClient.RunBehavior, bool, string, System.Threading.Tasks.TaskCompletionSource<object>, int, out System.Threading.Tasks.Task, out bool, bool, bool)
+[10] System.Data.SqlClient.SqlCommand.RunExecuteReader(System.Data.CommandBehavior, System.Data.SqlClient.RunBehavior, bool, string)
+........1 more stack frames omitted.
+The callstack context, if included, corresponds to the thread where this exception occurred. There is no need to identify this thread by other means.
+The top most frame in the callstack context should correspond to the place the exception message was thrown from. Code may or may not have been provided for it but can be requested.
+
+## CALLSTACK
+Thread ID: 26968
+[1] [External Code]
+[4] ContohSoal1.exe!ContohSoal1.Form4About.saveBtn_Click
+This is the current user focused stack frame. The provided locals context corresponds to this stack frame, but you may evaluate expressions and retrieve code for any frame.
+Code for the stack frame:
+```csharp Form4About.cs
+165:         private void saveBtn_Click(object sender, EventArgs e)
+166:         {
+167:             if (nameTxt.Text == "" || iataTxt.Text == "" || cityTxt.Text == "" || addressTxt.Text == "" || countryBox.SelectedIndex == 0)
+168:             {
+169:                 MessageBox.Show("Semua data harus diisi!");
+170:                 return;
+171:             }
+172: 
+173:             // validasi panjang kode IATA
+174:             if (iataTxt.Text.Length != 3)
+175:             {
+176:                 MessageBox.Show("Kode IATA wajib memiliki 3 huruf!");
+177:                 return;
+178:             }
+179: 
+180:             // semua karakter IATA harus berupa huruf
+181:             if (!iataTxt.Text.All(char.IsLetter)) // All() mengecek semua karakter
+182:             {
+183:                 MessageBox.Show("Kode IATA hanya boleh huruf!");
+184:                 return;
+185:             }
+186: 
+187:             // validasi IATA tidak boleh sama
+188:             bool adaIATA = db.Bandaras.Any(b => b.KodeIATA == iataTxt.Text && b.ID != idBandara);
+189: 
+190:             if (adaIATA)
+191:             {
+192:                 MessageBox.Show("Kode IATA sudah digunakan!");
+193:                 return;
+194:             }
+195: 
+196:             // validasi jumlah terminal (minimal 1 terminal)
+197:             if (terminalCount.Value < 1)
+198:             {
+199:                 MessageBox.Show("Jumlah terminal minimal 1");
+200:                 return;
+201:             }
+202: 
+203:             // validasi nama bandara harus unik
+204:             bool adaBandara = db.Bandaras.Any(b => b.Nama.ToLower() == nameTxt.Text.ToLower() && b.ID != idBandara);
+205: 
+206:             if (adaBandara)
+207:             {
+208:                 MessageBox.Show("Nama bandara sudah dipakai!");
+209:                 return;
+210:             }
+211: 
+212:             // percabangan edit atau add data
+213:             if (idBandara == -1) // add data
+214:             {
+215:                 // membuat object bandara baru
+216:                 Bandara bandaraBaru = new Bandara();
+217:                 bandaraBaru.Nama = nameTxt.Text;
+218:                 bandaraBaru.KodeIATA = iataTxt.Text;
+219:                 bandaraBaru.Kota = cityTxt.Text;
+220:                 bandaraBaru.NegaraID = Convert.ToInt32(countryBox.SelectedValue);
+221:                 bandaraBaru.JumlahTerminal = Convert.ToInt32(terminalCount.Value);
+222:                 bandaraBaru.Alamat = addressTxt.Text;
+223: 
+224:                 MessageBox.Show("Data berhasil ditambahkan!");
+225:             }
+226:             else // edit
+227:             {
+228:                 Bandara editBandara = new Bandara();
+229:                 editBandara.Nama = nameTxt.Text;
+230:                 editBandara.KodeIATA = iataTxt.Text;
+231:                 editBandara.Kota = cityTxt.Text;
+232:                 editBandara.NegaraID = Convert.ToInt32(countryBox.SelectedValue);
+233:                 editBandara.JumlahTerminal = Convert.ToInt32(terminalCount.Value);
+234:                 editBandara.Alamat = addressTxt.Text;
+235: 
+236:                 MessageBox.Show("Data berhasil diedit!");
+237:             }
+238: 
+239:             // membuat object bandara baru
+240:             Bandara bandara = new Bandara();
+241: 
+242:             bandara.Nama = nameTxt.Text;
+243:             bandara.KodeIATA = iataTxt.Text;
+244:             bandara.Kota = nameTxt.Text;
+245:             bandara.NegaraID = Convert.ToInt32(countryBox.SelectedValue);
+246:             bandara.JumlahTerminal = Convert.ToInt32(terminalCount.Value);
+247:             bandara.Alamat = addressTxt.Text;
+248: 
+249:             db.Bandaras.Add(bandara);
+250:             db.SaveChanges();
+251: 
+252:             LoadBandara();
+253:             ResetForm();
+254:         }
+```
+Current statement: line 250
+[5] [External Code]
+[18] ContohSoal1.exe!ContohSoal1.Program.Main
+Code for the stack frame:
+```csharp Program.cs
+14:         [STAThread]
+15:         static void Main()
+16:         {
+17:             Application.EnableVisualStyles();
+18:             Application.SetCompatibleTextRenderingDefault(false);
+19:             Application.Run(new Form1Login());
+20:             //Application.Run(new Form9CustomerMain());
+21:         }
+```
+Current statement: line 19
+
+## LOCALS
+Variable: 'this' of type 'ContohSoal1.Form4About' is a complex object with child properties and has value: {ContohSoal1.Form4About}
+Variable: 'sender' of type 'object {System.Windows.Forms.Button}' is a complex object with child properties and has value: {Text = "Simpan"}
+Variable: 'e' of type 'System.EventArgs' is a complex object with child properties and has value: {System.EventArgs}
+Variable: 'adaIATA' of type 'bool' has value: false
+Variable: 'adaBandara' of type 'bool' has value: false
+Variable: 'bandara' of type 'ContohSoal1.Bandara' is a complex object with child properties and has value: {ContohSoal1.Bandara}
+

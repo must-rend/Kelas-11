@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\bin\Debug\net10.0\VIDEO-3.exe
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\bin\Debug\net10.0\VIDEO-3.deps.json
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\bin\Debug\net10.0\VIDEO-3.runtimeconfig.json
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\bin\Debug\net10.0\VIDEO-3.dll
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\bin\Debug\net10.0\VIDEO-3.pdb
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.AssemblyInfo.cs
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.dll
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\refint\VIDEO-3.dll
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.pdb
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\VIDEO-3.genruntimeconfig.cache
+C:\Users\student\source\repos\VIDEO-3\VIDEO-3\obj\Debug\net10.0\ref\VIDEO-3.dll

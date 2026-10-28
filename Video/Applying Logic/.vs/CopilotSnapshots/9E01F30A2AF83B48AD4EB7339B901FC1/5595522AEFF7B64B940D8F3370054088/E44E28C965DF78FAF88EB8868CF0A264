@@ -1,0 +1,38 @@
+﻿using System.Windows.Forms;
+
+namespace ContohSoal1
+{
+    public static class UIHelper
+    {
+        public static void Normalize(Control root)
+        {
+            System.Action<Control> normalize = null;
+            normalize = c =>
+            {
+                if (c is PictureBox pb)
+                {
+                    pb.Visible = false;
+                    pb.Image = null;
+                }
+                if (c is Button btn)
+                {
+                    btn.BackColor = System.Drawing.Color.White;
+                    btn.UseVisualStyleBackColor = false;
+                }
+                if (c is Panel p)
+                {
+                    p.BackColor = System.Drawing.Color.White;
+                }
+                if (c is DataGridView dgv)
+                {
+                    dgv.BackgroundColor = System.Drawing.Color.White;
+                }
+                foreach (Control child in c.Controls)
+                    normalize(child);
+            };
+            normalize(root);
+            if (root is Form f)
+                f.BackColor = System.Drawing.Color.White;
+        }
+    }
+}

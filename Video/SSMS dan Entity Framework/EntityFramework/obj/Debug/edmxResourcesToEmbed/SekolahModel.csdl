@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SekolahDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="SekolahDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Jurusans" EntityType="SekolahDBModel.Jurusan" />
+    <EntitySet Name="Siswas" EntityType="SekolahDBModel.Siswa" />
+    <AssociationSet Name="FK_Siswa_Jurusan" Association="SekolahDBModel.FK_Siswa_Jurusan">
+      <End Role="Jurusan" EntitySet="Jurusans" />
+      <End Role="Siswa" EntitySet="Siswas" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Siswa_Siswa" Association="SekolahDBModel.FK_Siswa_Siswa">
+      <End Role="Siswa" EntitySet="Siswas" />
+      <End Role="Siswa1" EntitySet="Siswas" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Jurusan">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NamaJurusan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Siswas" Relationship="SekolahDBModel.FK_Siswa_Jurusan" FromRole="Jurusan" ToRole="Siswa" />
+  </EntityType>
+  <EntityType Name="Siswa">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="Nama" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Alamat" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+    <Property Name="JurusanID" Type="Int32" />
+    <Property Name="Umur" Type="Int32" />
+    <NavigationProperty Name="Jurusan" Relationship="SekolahDBModel.FK_Siswa_Jurusan" FromRole="Siswa" ToRole="Jurusan" />
+    <NavigationProperty Name="Siswa1" Relationship="SekolahDBModel.FK_Siswa_Siswa" FromRole="Siswa" ToRole="Siswa1" />
+    <NavigationProperty Name="Siswa2" Relationship="SekolahDBModel.FK_Siswa_Siswa" FromRole="Siswa1" ToRole="Siswa" />
+  </EntityType>
+  <Association Name="FK_Siswa_Jurusan">
+    <End Type="SekolahDBModel.Jurusan" Role="Jurusan" Multiplicity="0..1" />
+    <End Type="SekolahDBModel.Siswa" Role="Siswa" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Jurusan">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Siswa">
+        <PropertyRef Name="JurusanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Siswa_Siswa">
+    <End Type="SekolahDBModel.Siswa" Role="Siswa" Multiplicity="1" />
+    <End Type="SekolahDBModel.Siswa" Role="Siswa1" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="Siswa">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Siswa1">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

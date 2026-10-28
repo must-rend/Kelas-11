@@ -1,0 +1,119 @@
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\bin\Debug\ContohSoal1.exe.config
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\bin\Debug\ContohSoal1.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\bin\Debug\ContohSoal1.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form1Login.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form2Register.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form3Dashboard.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form4About.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form5Struktur.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form6Bidang.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form7Sejarah.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\ContohSoal1\obj\Debug\ContohSoal1.Form8Slot.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\ContohSoal1.exe.config
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\ContohSoal1.exe
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\ContohSoal1.pdb
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form1Login.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form2Register.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form3Dashboard.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form4About.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form5Struktur.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form6Bidang.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form7Sejarah.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form8Slot.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.exe
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSoal1.pdb
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\EntityFramework.dll
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\EntityFramework.xml
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Erika\Documents\Erik\Code\GitHub\Github 3\Cinta\drive\ContohSoal1\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\BontenAirlines\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\BontenAirlines\obj\Debug\ContohSoal1.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\BontenAirlines\obj\Debug\ContohSoal1.pdb
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\ContohSoal1.exe.config
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\ContohSoal1.exe
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\ContohSoal1.pdb
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\EntityFramework.dll
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\EntityFramework.xml
+C:\Users\yangk\source\repos\BontenAirlines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form4About.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form5Struktur.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form6Bidang.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form7Sejarah.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form8Slot.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.exe
+C:\Users\yangk\source\repos\BontenAirlines\obj\Debug\ContohSoal1.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\ContohSoal1.exe.config
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\ContohSoal1.exe
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\ContohSoal1.pdb
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\EntityFramework.dll
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\EntityFramework.xml
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form4About.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form5Struktur.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form6Bidang.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form7Sejarah.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form8Slot.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\Users\yangk\OneDrive\Dokumen\KELASXIRPL\drive\Tugas Video\BontenAirlines\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\ContohSoal1.exe.config
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\ContohSoal1.exe
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\ContohSoal1.pdb
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\EntityFramework.dll
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\EntityFramework.SqlServer.dll
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\EntityFramework.xml
+C:\JokiTugas\Fabio\APPYING-LOGIC\bin\Debug\EntityFramework.SqlServer.xml
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.csproj.AssemblyReference.cache
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form10ListPenerbangan.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form11BeliTiket.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form12TiketSaya.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form4About.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form5Struktur.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form6Bidang.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form7Sejarah.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form8Slot.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Form9CustomerMain.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.PenumpangControl.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.Properties.Resources.resources
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.csproj.GenerateResource.cache
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.csproj.CoreCompileInputs.cache
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSo.B682F1D5.Up2Date
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.exe
+C:\JokiTugas\Fabio\APPYING-LOGIC\obj\Debug\ContohSoal1.pdb

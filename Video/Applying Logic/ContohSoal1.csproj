@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="packages\EntityFramework.6.5.2\build\EntityFramework.props" Condition="Exists('packages\EntityFramework.6.5.2\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7174148C-93F8-4DCE-8D95-A6384A060986}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ContohSoal1</RootNamespace>
+    <AssemblyName>ContohSoal1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.5.2\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>packages\EntityFramework.6.5.2\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <HintPath>..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Akun.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Bandara.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BandaraModels.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BandaraModels.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BandaraModels.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="BandaraModels.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form10ListPenerbangan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form10ListPenerbangan.Designer.cs">
+      <DependentUpon>Form10ListPenerbangan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form11BeliTiket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form11BeliTiket.Designer.cs">
+      <DependentUpon>Form11BeliTiket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form12TiketSaya.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form12TiketSaya.Designer.cs">
+      <DependentUpon>Form12TiketSaya.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2Register.Designer.cs">
+      <DependentUpon>Form2Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3Dashboard.Designer.cs">
+      <DependentUpon>Form3Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4About.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4About.Designer.cs">
+      <DependentUpon>Form4About.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5Struktur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5Struktur.Designer.cs">
+      <DependentUpon>Form5Struktur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6Bidang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6Bidang.Designer.cs">
+      <DependentUpon>Form6Bidang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7Sejarah.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7Sejarah.Designer.cs">
+      <DependentUpon>Form7Sejarah.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8Slot.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8Slot.Designer.cs">
+      <DependentUpon>Form8Slot.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form9CustomerMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form9CustomerMain.Designer.cs">
+      <DependentUpon>Form9CustomerMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JadwalPenerbangan.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="KodePromo.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Maskapai.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Negara.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="PenumpangControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PenumpangControl.Designer.cs">
+      <DependentUpon>PenumpangControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PerubahanStatusJadwalPenerbangan.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="StatusPenerbangan.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiDetail.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="TransaksiHeader.cs">
+      <DependentUpon>BandaraModels.tt</DependentUpon>
+    </Compile>
+    <Compile Include="UIHelper.cs" />
+    <EmbeddedResource Include="Form10ListPenerbangan.resx">
+      <DependentUpon>Form10ListPenerbangan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form11BeliTiket.resx">
+      <DependentUpon>Form11BeliTiket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form12TiketSaya.resx">
+      <DependentUpon>Form12TiketSaya.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4About.resx">
+      <DependentUpon>Form4About.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5Struktur.resx">
+      <DependentUpon>Form5Struktur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6Bidang.resx">
+      <DependentUpon>Form6Bidang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7Sejarah.resx">
+      <DependentUpon>Form7Sejarah.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8Slot.resx">
+      <DependentUpon>Form8Slot.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form9CustomerMain.resx">
+      <DependentUpon>Form9CustomerMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PenumpangControl.resx">
+      <DependentUpon>PenumpangControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EntityDeploy Include="BandaraModels.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>BandaraModels.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="BandaraModels.edmx.diagram">
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TokRev Logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ManjiLogo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Manji2Logo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bonten2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BontenLogo-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bonten3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-removebg-preview1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\About.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Structure.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Bidang.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Slot.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\time clock circle.png" />
+    <None Include="Resources\arrow right1.png" />
+    <None Include="Resources\exit door1.png" />
+    <None Include="Resources\ticket plane.png" />
+    <None Include="Resources\multiple man woman.png" />
+    <None Include="Resources\ticket plane - Copy.png" />
+    <None Include="Resources\exit door.png" />
+    <None Include="Resources\calendar date mark circle.png" />
+    <None Include="Resources\chevron arrow left.png" />
+    <None Include="Resources\arrow right.png" />
+    <None Include="Resources\plane take off.png" />
+    <None Include="Resources\plane landing.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BandaraModels.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+      <LastGenOutput>BandaraModels.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="BandaraModels.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>BandaraModels.edmx</DependentUpon>
+      <LastGenOutput>BandaraModels.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\download %286%29.jpg" />
+    <None Include="Resources\BontenLogo-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('packages\EntityFramework.6.5.2\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.2\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('packages\EntityFramework.6.5.2\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', 'packages\EntityFramework.6.5.2\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="packages\EntityFramework.6.5.2\build\EntityFramework.targets" Condition="Exists('packages\EntityFramework.6.5.2\build\EntityFramework.targets')" />
+</Project>

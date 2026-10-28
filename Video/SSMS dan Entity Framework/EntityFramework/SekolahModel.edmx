@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+    <Schema Namespace="SekolahDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Jurusan">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="NamaJurusan" Type="varchar" MaxLength="50" />
+        </EntityType>
+        <EntityType Name="Siswa">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="Nama" Type="varchar" MaxLength="50" />
+          <Property Name="Umur" Type="int" />
+          <Property Name="Alamat" Type="text" />
+          <Property Name="JurusanID" Type="int" />
+        </EntityType>
+        <Association Name="FK_Siswa_Siswa">
+          <End Role="Siswa" Type="Self.Siswa" Multiplicity="1" />
+          <End Role="Siswa1" Type="Self.Siswa" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Siswa">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Siswa1">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="SekolahDBModelStoreContainer">
+          <EntitySet Name="Jurusan" EntityType="Self.Jurusan" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Siswa" EntityType="Self.Siswa" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK_Siswa_Siswa" Association="Self.FK_Siswa_Siswa">
+            <End Role="Siswa" EntitySet="Siswa" />
+            <End Role="Siswa1" EntitySet="Siswa" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema></edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="SekolahDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityContainer Name="SekolahDBEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Jurusans" EntityType="SekolahDBModel.Jurusan" />
+          <EntitySet Name="Siswas" EntityType="SekolahDBModel.Siswa" />
+          <AssociationSet Name="FK_Siswa_Jurusan" Association="SekolahDBModel.FK_Siswa_Jurusan">
+            <End Role="Jurusan" EntitySet="Jurusans" />
+            <End Role="Siswa" EntitySet="Siswas" />
+          </AssociationSet>
+          <AssociationSet Name="FK_Siswa_Siswa" Association="SekolahDBModel.FK_Siswa_Siswa">
+            <End Role="Siswa" EntitySet="Siswas" />
+            <End Role="Siswa1" EntitySet="Siswas" />
+          </AssociationSet>
+        </EntityContainer>
+        <EntityType Name="Jurusan">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="NamaJurusan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <NavigationProperty Name="Siswas" Relationship="SekolahDBModel.FK_Siswa_Jurusan" FromRole="Jurusan" ToRole="Siswa" />
+        </EntityType>
+        <EntityType Name="Siswa">
+          <Key>
+            <PropertyRef Name="Id" />
+          </Key>
+          <Property Name="Id" Type="Int32" Nullable="false" />
+          <Property Name="Nama" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="Alamat" Type="String" MaxLength="Max" FixedLength="false" Unicode="false" />
+          <Property Name="JurusanID" Type="Int32" />
+          <Property Name="Umur" Type="Int32" />
+          <NavigationProperty Name="Jurusan" Relationship="SekolahDBModel.FK_Siswa_Jurusan" FromRole="Siswa" ToRole="Jurusan" />
+          <NavigationProperty Name="Siswa1" Relationship="SekolahDBModel.FK_Siswa_Siswa" FromRole="Siswa" ToRole="Siswa1" />
+          <NavigationProperty Name="Siswa2" Relationship="SekolahDBModel.FK_Siswa_Siswa" FromRole="Siswa1" ToRole="Siswa" />
+        </EntityType>
+        <Association Name="FK_Siswa_Jurusan">
+          <End Type="SekolahDBModel.Jurusan" Role="Jurusan" Multiplicity="0..1" />
+          <End Type="SekolahDBModel.Siswa" Role="Siswa" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Jurusan">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Siswa">
+              <PropertyRef Name="JurusanID" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK_Siswa_Siswa">
+          <End Type="SekolahDBModel.Siswa" Role="Siswa" Multiplicity="1" />
+          <End Type="SekolahDBModel.Siswa" Role="Siswa1" Multiplicity="0..1" />
+          <ReferentialConstraint>
+            <Principal Role="Siswa">
+              <PropertyRef Name="Id" />
+            </Principal>
+            <Dependent Role="Siswa1">
+              <PropertyRef Name="Id" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="SekolahDBModelStoreContainer" CdmEntityContainer="SekolahDBEntities">
+          <EntitySetMapping Name="Jurusans">
+            <EntityTypeMapping TypeName="SekolahDBModel.Jurusan">
+              <MappingFragment StoreEntitySet="Jurusan">
+                <ScalarProperty Name="NamaJurusan" ColumnName="NamaJurusan" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Siswas">
+            <EntityTypeMapping TypeName="SekolahDBModel.Siswa">
+              <MappingFragment StoreEntitySet="Siswa">
+                <ScalarProperty Name="Umur" ColumnName="Umur" />
+                <ScalarProperty Name="JurusanID" ColumnName="JurusanID" />
+                <ScalarProperty Name="Alamat" ColumnName="Alamat" />
+                <ScalarProperty Name="Nama" ColumnName="Nama" />
+                <ScalarProperty Name="Id" ColumnName="Id" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

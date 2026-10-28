@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\student\\source\\repos\\VIDEO-5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE703468-6978-443B-9C94-FC77F6DECB56}|VIDEO-5\\VIDEO-5.csproj|c:\\users\\student\\source\\repos\\video-5\\video-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE703468-6978-443B-9C94-FC77F6DECB56}|VIDEO-5\\VIDEO-5.csproj|solutionrelative:video-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\student\\source\\repos\\VIDEO-5\\VIDEO-5\\Program.cs",
+              "RelativeDocumentMoniker": "VIDEO-5\\Program.cs",
+              "ToolTip": "C:\\Users\\student\\source\\repos\\VIDEO-5\\VIDEO-5\\Program.cs",
+              "RelativeToolTip": "VIDEO-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-15T04:55:21.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

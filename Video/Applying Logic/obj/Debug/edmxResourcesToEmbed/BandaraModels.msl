@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BromoAirlinesModelStoreContainer" CdmEntityContainer="BandaraEntities">
+    <EntitySetMapping Name="Akuns">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.Akun">
+        <MappingFragment StoreEntitySet="Akun">
+          <ScalarProperty Name="MerupakanAdmin" ColumnName="MerupakanAdmin" />
+          <ScalarProperty Name="NomorTelepon" ColumnName="NomorTelepon" />
+          <ScalarProperty Name="TanggalLahir" ColumnName="TanggalLahir" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="Username" ColumnName="Username" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Bandaras">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.Bandara">
+        <MappingFragment StoreEntitySet="Bandara">
+          <ScalarProperty Name="Alamat" ColumnName="Alamat" />
+          <ScalarProperty Name="JumlahTerminal" ColumnName="JumlahTerminal" />
+          <ScalarProperty Name="NegaraID" ColumnName="NegaraID" />
+          <ScalarProperty Name="Kota" ColumnName="Kota" />
+          <ScalarProperty Name="KodeIATA" ColumnName="KodeIATA" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JadwalPenerbangans">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.JadwalPenerbangan">
+        <MappingFragment StoreEntitySet="JadwalPenerbangan">
+          <ScalarProperty Name="DurasiPenerbangan" ColumnName="DurasiPenerbangan" />
+          <ScalarProperty Name="HargaPerTiket" ColumnName="HargaPerTiket" />
+          <ScalarProperty Name="TanggalWaktuKeberangkatan" ColumnName="TanggalWaktuKeberangkatan" />
+          <ScalarProperty Name="MaskapaiID" ColumnName="MaskapaiID" />
+          <ScalarProperty Name="BandaraTujuanID" ColumnName="BandaraTujuanID" />
+          <ScalarProperty Name="BandaraKeberangkatanID" ColumnName="BandaraKeberangkatanID" />
+          <ScalarProperty Name="KodePenerbangan" ColumnName="KodePenerbangan" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="KodePromoes">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.KodePromo">
+        <MappingFragment StoreEntitySet="KodePromo">
+          <ScalarProperty Name="Deskripsi" ColumnName="Deskripsi" />
+          <ScalarProperty Name="BerlakuSampai" ColumnName="BerlakuSampai" />
+          <ScalarProperty Name="MaksimumDiskon" ColumnName="MaksimumDiskon" />
+          <ScalarProperty Name="PersentaseDiskon" ColumnName="PersentaseDiskon" />
+          <ScalarProperty Name="Kode" ColumnName="Kode" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Maskapais">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.Maskapai">
+        <MappingFragment StoreEntitySet="Maskapai">
+          <ScalarProperty Name="Deskripsi" ColumnName="Deskripsi" />
+          <ScalarProperty Name="JumlahKru" ColumnName="JumlahKru" />
+          <ScalarProperty Name="Perusahaan" ColumnName="Perusahaan" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Negaras">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.Negara">
+        <MappingFragment StoreEntitySet="Negara">
+          <ScalarProperty Name="IbukotaNegara" ColumnName="IbukotaNegara" />
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PerubahanStatusJadwalPenerbangans">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.PerubahanStatusJadwalPenerbangan">
+        <MappingFragment StoreEntitySet="PerubahanStatusJadwalPenerbangan">
+          <ScalarProperty Name="PerkiraanDurasiDelay" ColumnName="PerkiraanDurasiDelay" />
+          <ScalarProperty Name="WaktuPerubahanTerjadi" ColumnName="WaktuPerubahanTerjadi" />
+          <ScalarProperty Name="StatusPenerbanganID" ColumnName="StatusPenerbanganID" />
+          <ScalarProperty Name="JadwalPenerbanganID" ColumnName="JadwalPenerbanganID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="StatusPenerbangans">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.StatusPenerbangan">
+        <MappingFragment StoreEntitySet="StatusPenerbangan">
+          <ScalarProperty Name="Nama" ColumnName="Nama" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransaksiDetails">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.TransaksiDetail">
+        <MappingFragment StoreEntitySet="TransaksiDetail">
+          <ScalarProperty Name="NamaLengkapPenumpang" ColumnName="NamaLengkapPenumpang" />
+          <ScalarProperty Name="TitelPenumpang" ColumnName="TitelPenumpang" />
+          <ScalarProperty Name="TransaksiHeaderID" ColumnName="TransaksiHeaderID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TransaksiHeaders">
+      <EntityTypeMapping TypeName="BromoAirlinesModel.TransaksiHeader">
+        <MappingFragment StoreEntitySet="TransaksiHeader">
+          <ScalarProperty Name="KodePromoID" ColumnName="KodePromoID" />
+          <ScalarProperty Name="TotalHarga" ColumnName="TotalHarga" />
+          <ScalarProperty Name="JumlahPenumpang" ColumnName="JumlahPenumpang" />
+          <ScalarProperty Name="JadwalPenerbanganID" ColumnName="JadwalPenerbanganID" />
+          <ScalarProperty Name="TanggalTransaksi" ColumnName="TanggalTransaksi" />
+          <ScalarProperty Name="AkunID" ColumnName="AkunID" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

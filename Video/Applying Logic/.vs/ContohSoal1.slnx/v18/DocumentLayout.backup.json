@@ -1,0 +1,725 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|c:\\jokitugas\\fabio\\appying-logic\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form12tiketsaya.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form12tiketsaya.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form11belitiket.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form11belitiket.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form10listpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form10listpenerbangan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form10listpenerbangan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form10listpenerbangan.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form10listpenerbangan.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form9customermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form9customermain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form8slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form8slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form8slot.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form8slot.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form8slot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form8slot.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form7sejarah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form7sejarah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form6bidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form6bidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form5struktur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form5struktur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form4about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form4about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form4about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form4about.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form5struktur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form5struktur.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form6bidang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form6bidang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form5struktur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form5struktur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form6bidang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form6bidang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form6bidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form6bidang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\bandaramodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:bandaramodels.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form7sejarah.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form7sejarah.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form7sejarah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form7sejarah.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form4about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form4about.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form3dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form9customermain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form2register.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:penumpangcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form12tiketsaya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\penumpangcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:penumpangcontrol.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form2register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form3dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form8slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form8slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7174148C-93F8-4DCE-8D95-A6384A060986}|ContohSoal1.csproj|solutionrelative:form11belitiket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form12TiketSaya.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "Form12TiketSaya.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.cs [Design]",
+              "RelativeToolTip": "Form12TiketSaya.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T23:05:08.63Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form11BeliTiket.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "Form11BeliTiket.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.cs [Design]",
+              "RelativeToolTip": "Form11BeliTiket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:41:06.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form11BeliTiket.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.Designer.cs",
+              "RelativeDocumentMoniker": "Form11BeliTiket.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.Designer.cs",
+              "RelativeToolTip": "Form11BeliTiket.Designer.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAA1wH4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:57:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form12TiketSaya.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.Designer.cs",
+              "RelativeDocumentMoniker": "Form12TiketSaya.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.Designer.cs",
+              "RelativeToolTip": "Form12TiketSaya.Designer.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAYwMcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:57:27.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:53:34.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:59:46.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form10ListPenerbangan.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.cs [Design]",
+              "RelativeToolTip": "Form10ListPenerbangan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T17:03:20.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form10ListPenerbangan.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.Designer.cs",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.Designer.cs",
+              "RelativeToolTip": "Form10ListPenerbangan.Designer.cs",
+              "ViewState": "AgIAAKMBAAAAAAAAAAA1wLgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:57:13.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form10ListPenerbangan.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.cs",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.cs",
+              "RelativeToolTip": "Form10ListPenerbangan.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T17:03:15.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form10ListPenerbangan.resx",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.resx",
+              "RelativeDocumentMoniker": "Form10ListPenerbangan.resx",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form10ListPenerbangan.resx",
+              "RelativeToolTip": "Form10ListPenerbangan.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-15T22:59:50.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form9CustomerMain.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "Form9CustomerMain.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.cs [Design]",
+              "RelativeToolTip": "Form9CustomerMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:56:45.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form9CustomerMain.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.Designer.cs",
+              "RelativeDocumentMoniker": "Form9CustomerMain.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.Designer.cs",
+              "RelativeToolTip": "Form9CustomerMain.Designer.cs",
+              "ViewState": "AgIAAEEBAAAAAAAAAAAAwFIBAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:56:07.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form8Slot.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.cs",
+              "RelativeDocumentMoniker": "Form8Slot.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.cs [Design]",
+              "RelativeToolTip": "Form8Slot.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T23:39:53.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form8Slot.resx",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.resx",
+              "RelativeDocumentMoniker": "Form8Slot.resx",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.resx",
+              "RelativeToolTip": "Form8Slot.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-15T22:56:53.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form8Slot.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.Designer.cs",
+              "RelativeDocumentMoniker": "Form8Slot.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.Designer.cs",
+              "RelativeToolTip": "Form8Slot.Designer.cs",
+              "ViewState": "AgIAAAoCAAAAAAAAAAA+wCgCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:53:48.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form6Bidang.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.cs",
+              "RelativeDocumentMoniker": "Form6Bidang.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.cs [Design]",
+              "RelativeToolTip": "Form6Bidang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:31:57.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form7Sejarah.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.cs",
+              "RelativeDocumentMoniker": "Form7Sejarah.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.cs [Design]",
+              "RelativeToolTip": "Form7Sejarah.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T23:39:03.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form5Struktur.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.cs",
+              "RelativeDocumentMoniker": "Form5Struktur.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.cs [Design]",
+              "RelativeToolTip": "Form5Struktur.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T23:35:20.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form4About.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.cs",
+              "RelativeDocumentMoniker": "Form4About.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.cs [Design]",
+              "RelativeToolTip": "Form4About.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:56:20.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form4About.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.Designer.cs",
+              "RelativeDocumentMoniker": "Form4About.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.Designer.cs",
+              "RelativeToolTip": "Form4About.Designer.cs",
+              "ViewState": "AgIAAFkCAAAAAAAAAAA+wHcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:47:42.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form5Struktur.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.Designer.cs",
+              "RelativeDocumentMoniker": "Form5Struktur.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.Designer.cs",
+              "RelativeToolTip": "Form5Struktur.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEBAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:05:58.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form6Bidang.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.Designer.cs",
+              "RelativeDocumentMoniker": "Form6Bidang.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.Designer.cs",
+              "RelativeToolTip": "Form6Bidang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:11:53.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form5Struktur.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.cs",
+              "RelativeDocumentMoniker": "Form5Struktur.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form5Struktur.cs",
+              "RelativeToolTip": "Form5Struktur.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAAwOAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:00:16.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form3Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "Form3Dashboard.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.cs [Design]",
+              "RelativeToolTip": "Form3Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:37:42.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form6Bidang.resx",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.resx",
+              "RelativeDocumentMoniker": "Form6Bidang.resx",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.resx",
+              "RelativeToolTip": "Form6Bidang.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-09-15T22:37:13.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BandaraModels.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\BandaraModels.edmx",
+              "RelativeDocumentMoniker": "BandaraModels.edmx",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\BandaraModels.edmx [Diagram1]",
+              "RelativeToolTip": "BandaraModels.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-09-01T05:21:10.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form6Bidang.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.cs",
+              "RelativeDocumentMoniker": "Form6Bidang.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form6Bidang.cs",
+              "RelativeToolTip": "Form6Bidang.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAAAOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T01:50:33.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Form7Sejarah.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.Designer.cs",
+              "RelativeDocumentMoniker": "Form7Sejarah.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.Designer.cs",
+              "RelativeToolTip": "Form7Sejarah.Designer.cs",
+              "ViewState": "AgIAAPUBAAAAAAAAAAAAAPUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T17:08:18.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Form7Sejarah.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.cs",
+              "RelativeDocumentMoniker": "Form7Sejarah.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form7Sejarah.cs",
+              "RelativeToolTip": "Form7Sejarah.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:00:24.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Form4About.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.cs",
+              "RelativeDocumentMoniker": "Form4About.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form4About.cs",
+              "RelativeToolTip": "Form4About.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAAAAIBAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:15:08.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Form8Slot.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.cs",
+              "RelativeDocumentMoniker": "Form8Slot.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form8Slot.cs",
+              "RelativeToolTip": "Form8Slot.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:00:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Form3Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Form3Dashboard.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.Designer.cs",
+              "RelativeToolTip": "Form3Dashboard.Designer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:33:12.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Form9CustomerMain.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.cs",
+              "RelativeDocumentMoniker": "Form9CustomerMain.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form9CustomerMain.cs",
+              "RelativeToolTip": "Form9CustomerMain.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:01:07.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Form2Register.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.cs",
+              "RelativeDocumentMoniker": "Form2Register.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.cs",
+              "RelativeToolTip": "Form2Register.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:00:05.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Form11BeliTiket.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.cs",
+              "RelativeDocumentMoniker": "Form11BeliTiket.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form11BeliTiket.cs",
+              "RelativeToolTip": "Form11BeliTiket.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:01:16.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Form3Dashboard.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.cs",
+              "RelativeDocumentMoniker": "Form3Dashboard.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form3Dashboard.cs",
+              "RelativeToolTip": "Form3Dashboard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T16:00:09.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\UIHelper.cs",
+              "RelativeDocumentMoniker": "UIHelper.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\UIHelper.cs",
+              "RelativeToolTip": "UIHelper.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAABBwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T15:59:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Form2Register.cs [Design]",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.cs",
+              "RelativeDocumentMoniker": "Form2Register.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.cs [Design]",
+              "RelativeToolTip": "Form2Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T00:12:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T02:41:08.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Form2Register.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.Designer.cs",
+              "RelativeDocumentMoniker": "Form2Register.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form2Register.Designer.cs",
+              "RelativeToolTip": "Form2Register.Designer.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAQwIgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T14:54:37.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T09:55:13.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-30T02:41:33.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "PenumpangControl.Designer.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\PenumpangControl.Designer.cs",
+              "RelativeDocumentMoniker": "PenumpangControl.Designer.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\PenumpangControl.Designer.cs",
+              "RelativeToolTip": "PenumpangControl.Designer.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAawHcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:57:27.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "PenumpangControl.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\PenumpangControl.cs",
+              "RelativeDocumentMoniker": "PenumpangControl.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\PenumpangControl.cs",
+              "RelativeToolTip": "PenumpangControl.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAIBJwDIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:57:01.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form12TiketSaya.cs",
+              "DocumentMoniker": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.cs",
+              "RelativeDocumentMoniker": "Form12TiketSaya.cs",
+              "ToolTip": "C:\\JokiTugas\\Fabio\\APPYING-LOGIC\\Form12TiketSaya.cs",
+              "RelativeToolTip": "Form12TiketSaya.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwDYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-29T11:21:45.452Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
