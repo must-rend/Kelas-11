@@ -20,7 +20,7 @@ using System.Data.Entity.Infrastructure;
 
 public partial class SekolahDBEntities : DbContext
 {
-    public SekolahDBEntities()
+        public SekolahDBEntities()
         : base("name=SekolahDBEntities")
     {
 

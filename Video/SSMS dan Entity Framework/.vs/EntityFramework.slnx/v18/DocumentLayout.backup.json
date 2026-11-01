@@ -1,22 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\",
+  "WorkspaceRootPath": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|c:\\users\\revan\\downloads\\kelas_xi_rpl-main\\kelas_xi_rpl-main\\kelas-xi-rpl\\video\\ssms\u0026entity_framework\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\entityframework\\sekolahmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\entityframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|d:\\project rendi\\kelas 11\\video\\ssms dan entity framework\\entityframework\\sekolahmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\sekolahmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\entityframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|d:\\project rendi\\kelas 11\\video\\ssms dan entity framework\\entityframework\\entityframework.exe.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A43BD227-4FDD-4198-936F-7CD5D37D3455}|EntityFramework\\EntityFramework.csproj|solutionrelative:entityframework\\entityframework.exe.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\bin\\Debug\\EntityFramework.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:EntityFramework\\bin\\Debug\\EntityFramework.exe.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,17 +34,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\Form1.cs",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\Form1.cs",
               "RelativeDocumentMoniker": "EntityFramework\\Form1.cs",
-              "ToolTip": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\Form1.cs",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\Form1.cs",
               "RelativeToolTip": "EntityFramework\\Form1.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwCsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T05:09:01.042Z",
               "IsPinned": true,
@@ -44,21 +52,43 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "EntityFramework.exe.config",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\bin\\Debug\\EntityFramework.exe.config",
+              "RelativeDocumentMoniker": "EntityFramework\\bin\\Debug\\EntityFramework.exe.config",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\bin\\Debug\\EntityFramework.exe.config",
+              "RelativeToolTip": "EntityFramework\\bin\\Debug\\EntityFramework.exe.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-28T05:55:27.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EntityFramework.exe.Config",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\EntityFramework.exe.Config",
+              "RelativeDocumentMoniker": "EntityFramework\\EntityFramework.exe.Config",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\EntityFramework.exe.Config",
+              "RelativeToolTip": "EntityFramework\\EntityFramework.exe.Config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-28T05:55:25.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.config",
-              "DocumentMoniker": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\App.config",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\App.config",
               "RelativeDocumentMoniker": "EntityFramework\\App.config",
-              "ToolTip": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\App.config",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\App.config",
               "RelativeToolTip": "EntityFramework\\App.config",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2026-08-26T07:32:14.018Z",
               "EditorCaption": ""
@@ -67,20 +97,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "SekolahModel.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\SekolahModel.edmx",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\SekolahModel.edmx",
               "RelativeDocumentMoniker": "EntityFramework\\SekolahModel.edmx",
-              "ToolTip": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\SekolahModel.edmx [Diagram1]",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\SekolahModel.edmx [Diagram1]",
               "RelativeToolTip": "EntityFramework\\SekolahModel.edmx [Diagram1]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2026-08-26T07:17:25.865Z"
+              "WhenOpened": "2026-08-26T07:17:25.865Z",
+              "EditorCaption": " [Diagram1]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\Form1.cs",
+              "DocumentMoniker": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\Form1.cs",
               "RelativeDocumentMoniker": "EntityFramework\\Form1.cs",
-              "ToolTip": "C:\\Users\\revan\\Downloads\\KELAS_XI_RPL-main\\KELAS_XI_RPL-main\\KELAS-XI-RPL\\VIDEO\\SSMS\u0026ENTITY_FRAMEWORK\\EntityFramework\\Form1.cs [Design]",
+              "ToolTip": "D:\\Project Rendi\\Kelas 11\\Video\\SSMS dan Entity Framework\\EntityFramework\\Form1.cs [Design]",
               "RelativeToolTip": "EntityFramework\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-15T04:49:05.29Z",

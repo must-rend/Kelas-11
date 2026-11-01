@@ -1,0 +1,104 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Contoh_Soal_Part_1
+{
+    public partial class Form4Bandara : Form
+    {
+        public Form4Bandara()
+        {
+            InitializeComponent();
+        }
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Form3Dashboard dashboard = new Form3Dashboard();
+            this.Close();
+            dashboard.Show();
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            Form3Dashboard dashboard = new Form3Dashboard();
+            this.Close();
+            dashboard.Show();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+            Form5Maskapai maskapai = new Form5Maskapai();
+            this.Close();
+            maskapai.Show();
+        }
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Form5Maskapai maskapai = new Form5Maskapai();
+            this.Close();
+            maskapai.Show();
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+            Form6Jadwal jadwal = new Form6Jadwal();
+            this.Close();
+            jadwal.Show();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Form6Jadwal jadwal = new Form6Jadwal();
+            this.Close();
+            jadwal.Show();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            Form7Kode kode = new Form7Kode();
+            this.Close();
+            kode.Show();
+
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Form7Kode kode = new Form7Kode();
+            this.Close();
+            kode.Show();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+           Form8Ubah ubah = new Form8Ubah();
+            this.Close();
+            ubah.Show();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Form8Ubah ubah = new Form8Ubah();
+            this.Close();
+            ubah.Show();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            Form1Login login = new Form1Login();
+            this.Close();
+            login.Show();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Form1Login login = new Form1Login();
+            this.Close();
+            login.Show();
+        }
+    }
+}

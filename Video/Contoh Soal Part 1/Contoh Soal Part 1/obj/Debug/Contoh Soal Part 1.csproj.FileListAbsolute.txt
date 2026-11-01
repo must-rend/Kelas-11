@@ -1,0 +1,17 @@
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.AssemblyReference.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form1Login.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form2Register.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form3Dashboard.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Properties.Resources.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.GenerateResource.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe.config
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.pdb
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.exe
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.pdb
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form4Bandara.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form5Maskapai.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form6Jadwal.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form7Kode.resources
+D:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form8Ubah.resources

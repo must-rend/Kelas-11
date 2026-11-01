@@ -1,0 +1,10 @@
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\bin\Debug\Shopee.exe.config
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\bin\Debug\Shopee.exe
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\bin\Debug\Shopee.pdb
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.csproj.AssemblyReference.cache
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.Form1.resources
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.Properties.Resources.resources
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.csproj.GenerateResource.cache
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.exe
+D:\Project Rendi\Kelas 11\Video\Shopee\Shopee\obj\Debug\Shopee.pdb

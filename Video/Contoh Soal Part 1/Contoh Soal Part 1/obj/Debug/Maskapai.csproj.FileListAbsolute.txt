@@ -1,0 +1,18 @@
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe.config
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\bin\Debug\Contoh Soal Part 1.exe
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Maskapai.csproj.AssemblyReference.cache
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form1Login.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form10ListPenerbangan.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form2Register.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form3Dashboard.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form4Bandara.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form5Maskapai.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form6Jadwal.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form7Kode.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form8Ubah.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Form9CustomerMain.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh_Soal_Part_1.Properties.Resources.resources
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Maskapai.csproj.GenerateResource.cache
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Maskapai.csproj.CoreCompileInputs.cache
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.exe
+d:\Project Rendi\Kelas 11\Video\Contoh Soal Part 1\Contoh Soal Part 1\obj\Debug\Contoh Soal Part 1.pdb

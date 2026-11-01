@@ -28,3 +28,18 @@ C:\Users\revan\Downloads\KELAS_XI_RPL-main\KELAS_XI_RPL-main\KELAS-XI-RPL\VIDEO\
 C:\Users\revan\Downloads\KELAS_XI_RPL-main\KELAS_XI_RPL-main\KELAS-XI-RPL\VIDEO\SSMS&ENTITY_FRAMEWORK\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
 C:\Users\revan\Downloads\KELAS_XI_RPL-main\KELAS_XI_RPL-main\KELAS-XI-RPL\VIDEO\SSMS&ENTITY_FRAMEWORK\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
 C:\Users\revan\Downloads\KELAS_XI_RPL-main\KELAS_XI_RPL-main\KELAS-XI-RPL\VIDEO\SSMS&ENTITY_FRAMEWORK\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.exe.config
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.exe
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.pdb
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.dll
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.xml
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.csproj.AssemblyReference.cache
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.Form1.resources
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.Properties.Resources.resources
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.csproj.GenerateResource.cache
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.csproj.CoreCompileInputs.cache
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFr.4B064B60.Up2Date
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.exe
+D:\Project Rendi\Kelas 11\Video\SSMS dan Entity Framework\EntityFramework\obj\Debug\EntityFramework.pdb
